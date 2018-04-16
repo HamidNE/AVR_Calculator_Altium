@@ -1,0 +1,10 @@
+Output: Report Project Hierarchy
+Type  : ReportHierarchy
+From  : Variant [[No Variations]] of Project [Micro.PrjPCB]
+   Generated File[Micro.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:47:07 AM On 10/04/2018

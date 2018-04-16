@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=P?-10
+Removed Pin From Net: NetName=NetC1_2 Pin=P?-12
+Removed Pin From Net: NetName=NetC1_2 Pin=P?-14
+Removed Pin From Net: NetName=NetC1_2 Pin=P?-16
+Added Pin To Net: NetName=NetC1_2 Pin=P?-1
+Added Pin To Net: NetName=NetC1_2 Pin=P?-3
+Added Pin To Net: NetName=NetC1_2 Pin=P?-5
+Added Pin To Net: NetName=NetC1_2 Pin=P?-7
+Added Member To Class: ClassName=Micro Member=Component P? Header 8X2
+Added Member To Class: ClassName=Micro Member=Component P? Header 8X2
