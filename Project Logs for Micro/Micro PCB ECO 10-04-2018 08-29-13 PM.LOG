@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NetLED Test2-1_1 Pin=LED Test2-2-2
-Removed Pin From Net: NetName=NetLED Test2-1_2 Pin=Res Test2-1-1
-Added Pin To Net: NetName=NetLED Test2-1_2 Pin=LED Test2-2-2
-Added Pin To Net: NetName=NetLED Test2-1_1 Pin=Res Test2-1-1
-Added Room: Name=Micro
